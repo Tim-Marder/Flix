@@ -17,12 +17,13 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="flix.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I continue to receive the following error in the console upon building the app:
+**2020-09-26 21:56:18.408687-0400 Flix[6571:286683] [] nw_protocol_get_quic_image_block_invoke dlopen libquic failed**
+I learned from the Slack channel that this may be just an issue with the new version of XCode, and that the application works fine even if it continues to show up.
