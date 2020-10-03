@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://imgur.com/4FCM4h2" width=250><br>
+<img src="https://i.imgur.com/4FCM4h2.mp4" width=250><br>
 
 ### Notes
 At first, had like 8-10 movies per row in the grid view. Had to change the collection view setting "Estimate Size" from "Automatic" to "None" to fix.
